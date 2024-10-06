@@ -40,8 +40,8 @@ The Expense Tracker is a simple Java application designed to help users manage t
 - To see a summary of expenses: `summary`
 - To exit: `exit`
 
-### beginner project
+### Beginner project
 https://roadmap.sh/projects/expense-tracker
 
-### author
+### Author
 [devendrahere](https://github.com/devendrahere)
